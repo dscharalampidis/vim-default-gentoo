@@ -32,3 +32,11 @@ the Linux console:
 Consider using my
 [bashrc-gentoo](https://github.com/dscharalampidis/bashrc-gentoo) file for a
 more complete Gentoo-like terminal experience.
+
+## Screenshots
+
+Example in C:
+![Example in C](https://github.com/dscharalampidis/screenshots/blob/main/vim-default-gentoo/vim-default-gentoo-c.png?raw=true)
+
+Example in JavaScript:
+![Example in JavaScript](https://github.com/dscharalampidis/screenshots/blob/main/vim-default-gentoo/vim-default-gentoo-javascript.png?raw=true)
