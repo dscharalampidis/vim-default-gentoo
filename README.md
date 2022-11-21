@@ -22,7 +22,7 @@ the Linux console:
 | ---        | ---    | ---     | ---    | ---         |
 | black      | 0      | #000000 | 8      | #555555     |
 | red        | 1      | #AA0000 | 9      | #FF5555     |
-| green      | 2      | #00AA00 | 10     | #FF55FF     |
+| green      | 2      | #00AA00 | 10     | #55FF55     |
 | yellow     | 3      | #AA5500 | 11     | #FFFF55     |
 | blue       | 4      | #0000AA | 12     | #5555FF     |
 | magenta    | 5      | #AA00AA | 13     | #FF55FF     |
